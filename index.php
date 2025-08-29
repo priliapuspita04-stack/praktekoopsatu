@@ -23,5 +23,6 @@ $waktu = date("Y-m-d H:i:s");
             <p>Dijalankan di <strong>Docker</strong> di Hugging Face Spaces ✅</p>
         </div>
     </div>
+    <a href="HOME.php"> Ke halaman Home</a>
 </body>
 </html>
