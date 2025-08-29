@@ -13,7 +13,7 @@ class PersegiPanjang {
         return 2 * ($this->panjang + $this->lebar);
     }
 }
-// Tes
+
 $persegi = new PersegiPanjang(10, 5);
 echo "Luas: " . $persegi->luas() . "\n";
 echo "Keliling: " . $persegi->keliling() . "\n";
